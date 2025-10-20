@@ -1,3 +1,4 @@
 ﻿User-agent: *
 Allow: /
+
 Sitemap: https://smartlivingberlin.github.io/intellihome-berlin/sitemap.xml
